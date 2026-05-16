@@ -672,7 +672,7 @@ HTML = """
 
 
 <footer>
-  <div class="left">Built for <strong>Birdeye Data BIP Competition</strong> · Sprint 4 · May 2026</div>
+  <div class="left">Built using <strong>Birdeye Data</strong> ·  bds.birdeye.so · May 2026</div>
   <div class="tag">#BirdeyeAPI · @birdeye_data</div>
 </footer>
 

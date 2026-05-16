@@ -218,6 +218,7 @@ def run():
 
     # Phase 1: Build our smart money wallet database
     build_smart_money_list()
+    from smart_money import smart_money_wallets
     send_startup_message(len(smart_money_wallets))
 
     # Phase 2: Continuous monitoring loop
