@@ -1,0 +1,544 @@
+{
+  "last_updated": "2026-05-16 09:00:08",
+  "next_scan_at": 1778918588.272955,
+  "total_api_calls": 63,
+  "tokens_scanned": 20,
+  "alpha_signals": [
+    {
+      "score": 60,
+      "breakdown": {
+        "smart_money": 40,
+        "security": 15,
+        "momentum": 20,
+        "holder_distribution": 5
+      },
+      "price": 0.0015779888063459503,
+      "market_cap": 0,
+      "liquidity": 153484.82868828508,
+      "holders": 2294,
+      "smart_buyers": [
+        "o7RY6P2v...Wcvc",
+        "a8fZdgPD...6Bv3",
+        "Cfmkfncr...PWdo"
+      ],
+      "address": "E6ifp2mJy8cYQehUGUtFvrXriRKxRuonLmrvTFypump",
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "timestamp": "08:54:09",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 60,
+      "breakdown": {
+        "smart_money": 40,
+        "security": 15,
+        "momentum": 20,
+        "holder_distribution": 5
+      },
+      "price": 0.0009452456130139453,
+      "market_cap": 0,
+      "liquidity": 109056.06407500632,
+      "holders": 1974,
+      "smart_buyers": [
+        "BqkXv9NL...A6NL",
+        "3RePULhb...GfxE",
+        "CrGkJSBS...a8su"
+      ],
+      "address": "2DfBjrPFZjDTiCY6pxchS6aSdUdEpkm7PdqpovHjBAGS",
+      "symbol": "PRIMIS",
+      "name": "Primis Protocol",
+      "timestamp": "08:54:12",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 60,
+      "breakdown": {
+        "smart_money": 40,
+        "security": 15,
+        "momentum": 20,
+        "holder_distribution": 5
+      },
+      "price": 0.00040812987525401046,
+      "market_cap": 0,
+      "liquidity": 169179.27319410557,
+      "holders": 1811,
+      "smart_buyers": [
+        "7jUQAoDf...FbHx",
+        "GQhp1met...bWdJ"
+      ],
+      "address": "5qUKWLfChpJ9wCQAFKNG8zmXd9XnkPhFDPzSpLgvf2YA",
+      "symbol": "gork",
+      "name": "New XAI gork",
+      "timestamp": "08:54:46",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 60,
+      "breakdown": {
+        "smart_money": 40,
+        "security": 15,
+        "momentum": 20,
+        "holder_distribution": 5
+      },
+      "price": 0.0005706949745553726,
+      "market_cap": 0,
+      "liquidity": 121116.63353026593,
+      "holders": 1147,
+      "smart_buyers": [
+        "9caZyf8n...tqXV",
+        "EhhBh8FL...YbGX",
+        "9C9dZ5bz...ZcTV"
+      ],
+      "address": "DSZeB6pCzZsM43gTz7jakiYeCafinsNMKcpeB1FApump",
+      "symbol": "Wasabi",
+      "name": "Wasabi Cheese",
+      "timestamp": "08:54:51",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 60,
+      "breakdown": {
+        "smart_money": 40,
+        "security": 15,
+        "momentum": 20,
+        "holder_distribution": 5
+      },
+      "price": 0.0012526448024858178,
+      "market_cap": 0,
+      "liquidity": 105051.88045991024,
+      "holders": 704,
+      "smart_buyers": [
+        "5H8phzFu...iiNG",
+        "Gv52dF5Y...AUJ7",
+        "GnEcs3N8...inat"
+      ],
+      "address": "2DgktxmKE9jvNKipF1R7JBgsHv1FJJcys8VCTqYpksyJ",
+      "symbol": "ZOOMER",
+      "name": "ZOOMER",
+      "timestamp": "08:55:07",
+      "date": "2026-05-16"
+    }
+  ],
+  "all_tokens": [
+    {
+      "score": 3,
+      "breakdown": {
+        "smart_money": 0,
+        "security": 15,
+        "momentum": 3,
+        "holder_distribution": 5
+      },
+      "price": 1.0019555386850805,
+      "market_cap": 0,
+      "liquidity": 0.9644079349469725,
+      "holders": 29,
+      "smart_buyers": [],
+      "address": "GDsAVCmVauSueNj6yfrkWN5b3AxEwKW9iW3YdL26NAEZ",
+      "symbol": "WEUR",
+      "name": "Wrapped EURF",
+      "timestamp": "08:53:57",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 13,
+      "breakdown": {
+        "smart_money": 0,
+        "security": 15,
+        "momentum": 13,
+        "holder_distribution": 5
+      },
+      "price": 0.03995889766758867,
+      "market_cap": 0,
+      "liquidity": 1828269.924462089,
+      "holders": 69084,
+      "smart_buyers": [],
+      "address": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
+      "symbol": "PONKE",
+      "name": "PONKE",
+      "timestamp": "08:54:02",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 56,
+      "breakdown": {
+        "smart_money": 40,
+        "security": 15,
+        "momentum": 16,
+        "holder_distribution": 5
+      },
+      "price": 0.07711583740955032,
+      "market_cap": 0,
+      "liquidity": 4523159.49321132,
+      "holders": 46202,
+      "smart_buyers": [
+        "orcACRJY...TCc8",
+        "4CxLANDX...izCY"
+      ],
+      "address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+      "symbol": "arc",
+      "name": "AI Rig Complex",
+      "timestamp": "08:54:06",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 60,
+      "breakdown": {
+        "smart_money": 40,
+        "security": 15,
+        "momentum": 20,
+        "holder_distribution": 5
+      },
+      "price": 0.0015779888063459503,
+      "market_cap": 0,
+      "liquidity": 153484.82868828508,
+      "holders": 2294,
+      "smart_buyers": [
+        "o7RY6P2v...Wcvc",
+        "a8fZdgPD...6Bv3",
+        "Cfmkfncr...PWdo"
+      ],
+      "address": "E6ifp2mJy8cYQehUGUtFvrXriRKxRuonLmrvTFypump",
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "timestamp": "08:54:09",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 60,
+      "breakdown": {
+        "smart_money": 40,
+        "security": 15,
+        "momentum": 20,
+        "holder_distribution": 5
+      },
+      "price": 0.0009452456130139453,
+      "market_cap": 0,
+      "liquidity": 109056.06407500632,
+      "holders": 1974,
+      "smart_buyers": [
+        "BqkXv9NL...A6NL",
+        "3RePULhb...GfxE",
+        "CrGkJSBS...a8su"
+      ],
+      "address": "2DfBjrPFZjDTiCY6pxchS6aSdUdEpkm7PdqpovHjBAGS",
+      "symbol": "PRIMIS",
+      "name": "Primis Protocol",
+      "timestamp": "08:54:12",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 38,
+      "breakdown": {
+        "smart_money": 38,
+        "security": 15,
+        "momentum": 0,
+        "holder_distribution": 5
+      },
+      "price": 0,
+      "market_cap": 0,
+      "liquidity": 0,
+      "holders": 0,
+      "smart_buyers": [
+        "7MBLg6oV...pLaR"
+      ],
+      "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+      "symbol": "ORCA",
+      "name": "Orca",
+      "timestamp": "08:54:15",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 37,
+      "breakdown": {
+        "smart_money": 24,
+        "security": 15,
+        "momentum": 13,
+        "holder_distribution": 5
+      },
+      "price": 0.017050929783779215,
+      "market_cap": 0,
+      "liquidity": 865308.2627488121,
+      "holders": 11881,
+      "smart_buyers": [
+        "9gt4QkHb...S38c"
+      ],
+      "address": "1zJX5gRnjLgmTpq5sVwkq69mNDQkCemqoasyjaPW6jm",
+      "symbol": "KLED",
+      "name": "KLEDAI",
+      "timestamp": "08:54:19",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 0,
+      "breakdown": {
+        "smart_money": 0,
+        "security": 15,
+        "momentum": 0,
+        "holder_distribution": 5
+      },
+      "price": 0,
+      "market_cap": 0,
+      "liquidity": 0,
+      "holders": 0,
+      "smart_buyers": [],
+      "address": "4LEydtM5terKDQJeUgx5mPB6NYR5maE9hnGnasekpump",
+      "symbol": "BALLSACKDORKL",
+      "name": "ballsackdorkl",
+      "timestamp": "08:54:22",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 24,
+      "breakdown": {
+        "smart_money": 24,
+        "security": 15,
+        "momentum": 0,
+        "holder_distribution": 5
+      },
+      "price": 0,
+      "market_cap": 0,
+      "liquidity": 0,
+      "holders": 0,
+      "smart_buyers": [
+        "DmZvojz9...JdYj"
+      ],
+      "address": "Gpw8FwrKLDJ5KZSCkJKaMyBRodn2VNqptkb98wNwpump",
+      "symbol": "hopecore",
+      "name": "hope core",
+      "timestamp": "08:54:24",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 13,
+      "breakdown": {
+        "smart_money": 0,
+        "security": 15,
+        "momentum": 13,
+        "holder_distribution": 5
+      },
+      "price": 0.7278215223652863,
+      "market_cap": 0,
+      "liquidity": 652932.0115598864,
+      "holders": 13888,
+      "smart_buyers": [],
+      "address": "HfMbPyDdZH6QMaDDUokjYCkHxzjoGBMpgaUvpLWGbF5p",
+      "symbol": "PBTC",
+      "name": "Purple Bitcoin",
+      "timestamp": "08:54:29",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 24,
+      "breakdown": {
+        "smart_money": 24,
+        "security": 15,
+        "momentum": 0,
+        "holder_distribution": 5
+      },
+      "price": 0,
+      "market_cap": 0,
+      "liquidity": 0,
+      "holders": 0,
+      "smart_buyers": [
+        "GpaBYzh2...S25P"
+      ],
+      "address": "2MU93nLHhDsHzgEYBKbVbwLDd2pi71ubGp8SkEv9dZwQ",
+      "symbol": "SPC",
+      "name": "Space",
+      "timestamp": "08:54:33",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 37,
+      "breakdown": {
+        "smart_money": 24,
+        "security": 15,
+        "momentum": 13,
+        "holder_distribution": 5
+      },
+      "price": 0.02734709607977265,
+      "market_cap": 0,
+      "liquidity": 2602036.047967314,
+      "holders": 51476,
+      "smart_buyers": [
+        "orcACRJY...TCc8"
+      ],
+      "address": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+      "symbol": "ZEREBRO",
+      "name": "zerebro",
+      "timestamp": "08:54:36",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 37,
+      "breakdown": {
+        "smart_money": 24,
+        "security": 15,
+        "momentum": 13,
+        "holder_distribution": 5
+      },
+      "price": 0.06010592274459083,
+      "market_cap": 0,
+      "liquidity": 4733479.74970026,
+      "holders": 33780,
+      "smart_buyers": [
+        "a8fZdgPD...6Bv3"
+      ],
+      "address": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
+      "symbol": "jellyjelly",
+      "name": "jelly-my-jelly",
+      "timestamp": "08:54:40",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 60,
+      "breakdown": {
+        "smart_money": 40,
+        "security": 15,
+        "momentum": 20,
+        "holder_distribution": 5
+      },
+      "price": 0.00040812987525401046,
+      "market_cap": 0,
+      "liquidity": 169179.27319410557,
+      "holders": 1811,
+      "smart_buyers": [
+        "7jUQAoDf...FbHx",
+        "GQhp1met...bWdJ"
+      ],
+      "address": "5qUKWLfChpJ9wCQAFKNG8zmXd9XnkPhFDPzSpLgvf2YA",
+      "symbol": "gork",
+      "name": "New XAI gork",
+      "timestamp": "08:54:46",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 60,
+      "breakdown": {
+        "smart_money": 40,
+        "security": 15,
+        "momentum": 20,
+        "holder_distribution": 5
+      },
+      "price": 0.0005706949745553726,
+      "market_cap": 0,
+      "liquidity": 121116.63353026593,
+      "holders": 1147,
+      "smart_buyers": [
+        "9caZyf8n...tqXV",
+        "EhhBh8FL...YbGX",
+        "9C9dZ5bz...ZcTV"
+      ],
+      "address": "DSZeB6pCzZsM43gTz7jakiYeCafinsNMKcpeB1FApump",
+      "symbol": "Wasabi",
+      "name": "Wasabi Cheese",
+      "timestamp": "08:54:51",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 10,
+      "breakdown": {
+        "smart_money": 0,
+        "security": 15,
+        "momentum": 10,
+        "holder_distribution": 5
+      },
+      "price": 101.78254683364572,
+      "market_cap": 0,
+      "liquidity": 77489765.94466688,
+      "holders": 8906,
+      "smart_buyers": [],
+      "address": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
+      "symbol": "hSOL",
+      "name": "Helius Staked SOL",
+      "timestamp": "08:54:59",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 24,
+      "breakdown": {
+        "smart_money": 24,
+        "security": 15,
+        "momentum": 0,
+        "holder_distribution": 5
+      },
+      "price": 0,
+      "market_cap": 0,
+      "liquidity": 0,
+      "holders": 0,
+      "smart_buyers": [
+        "Gk3xVkJw...pMDy"
+      ],
+      "address": "eYYLMuZHfeTp78pFvu83sBUwhVfDRZfnqRwAMBhpump",
+      "symbol": "tilly",
+      "name": "tilly",
+      "timestamp": "08:55:02",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 60,
+      "breakdown": {
+        "smart_money": 40,
+        "security": 15,
+        "momentum": 20,
+        "holder_distribution": 5
+      },
+      "price": 0.0012526448024858178,
+      "market_cap": 0,
+      "liquidity": 105051.88045991024,
+      "holders": 704,
+      "smart_buyers": [
+        "5H8phzFu...iiNG",
+        "Gv52dF5Y...AUJ7",
+        "GnEcs3N8...inat"
+      ],
+      "address": "2DgktxmKE9jvNKipF1R7JBgsHv1FJJcys8VCTqYpksyJ",
+      "symbol": "ZOOMER",
+      "name": "ZOOMER",
+      "timestamp": "08:55:07",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 24,
+      "breakdown": {
+        "smart_money": 24,
+        "security": 15,
+        "momentum": 0,
+        "holder_distribution": 5
+      },
+      "price": 0,
+      "market_cap": 0,
+      "liquidity": 0,
+      "holders": 0,
+      "smart_buyers": [
+        "AYZLwZvg...LMmz"
+      ],
+      "address": "4V7i7XPBGTi7vCStQgYyVE1FCRZKxfiTYzUK4bmQ5UWg",
+      "symbol": "DOG",
+      "name": "Dog",
+      "timestamp": "08:55:10",
+      "date": "2026-05-16"
+    },
+    {
+      "score": 26,
+      "breakdown": {
+        "smart_money": 26,
+        "security": 15,
+        "momentum": 0,
+        "holder_distribution": 5
+      },
+      "price": 0,
+      "market_cap": 0,
+      "liquidity": 0,
+      "holders": 0,
+      "smart_buyers": [
+        "9zAqdzWA...PoaZ"
+      ],
+      "address": "MomhYZFWByMgz5vnLLLHZTr4a5dNUWXAcR7bfFPXHbF",
+      "symbol": "MTFR",
+      "name": "Mom Trust Fund Reserve",
+      "timestamp": "08:55:13",
+      "date": "2026-05-16"
+    }
+  ]
+}
